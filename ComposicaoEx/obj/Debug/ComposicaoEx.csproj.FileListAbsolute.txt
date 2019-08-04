@@ -1,0 +1,7 @@
+C:\Users\Windows\source\repos\ComposicaoEx\ComposicaoEx\obj\Debug\ComposicaoEx.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\ComposicaoEx\ComposicaoEx\bin\Debug\ComposicaoEx.exe.config
+C:\Users\Windows\source\repos\ComposicaoEx\ComposicaoEx\bin\Debug\ComposicaoEx.exe
+C:\Users\Windows\source\repos\ComposicaoEx\ComposicaoEx\bin\Debug\ComposicaoEx.pdb
+C:\Users\Windows\source\repos\ComposicaoEx\ComposicaoEx\obj\Debug\ComposicaoEx.exe
+C:\Users\Windows\source\repos\ComposicaoEx\ComposicaoEx\obj\Debug\ComposicaoEx.pdb
+C:\Users\Windows\source\repos\ComposicaoEx\ComposicaoEx\obj\Debug\ComposicaoEx.csprojAssemblyReference.cache
